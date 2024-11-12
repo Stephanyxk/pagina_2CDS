@@ -44,9 +44,7 @@ padding: 20px;
 }
 body{
 font-family: "Poppins", sans-serif;
-} => Define a fonte principal do site como "Poppins", com uma alternativa
-de “sans-serif” caso a fonte não esteja disponível.
-
+}
 header{
 background-color: #424e61;
 color: white;
